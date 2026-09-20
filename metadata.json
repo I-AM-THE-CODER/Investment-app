@@ -1,0 +1,6 @@
+{
+  "name": "Equity-Linked Investment Tracker",
+  "description": "Deterministic tracking, payoff analysis, barrier safety margins, and scenario modeling for equity-linked fixed term investments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
